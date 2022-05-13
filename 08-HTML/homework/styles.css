@@ -1,0 +1,32 @@
+.divClass h1{
+    color: rgb(243, 243, 77);
+}
+.divClass h2{
+    color: rgb(243, 243, 77);
+
+}
+.divClass h3{
+    color: rgb(243, 243, 77)
+
+}    
+
+.divClass #spanId{
+    font-size: 40px;
+    margin: 40px auto;
+}
+
+#thirdDiv{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(122, 79, 21);
+    padding: 50px;
+    border: 5px crimson;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#thirdDiv ul li img{
+    width: 400px;
+    
+} 
